@@ -1,0 +1,11 @@
+Computer Architecture
+Hennessey and Patterson
+MK
+99.00
+Computer Networks
+Tanenbaum
+MKG
+89.00
+
+Q
+

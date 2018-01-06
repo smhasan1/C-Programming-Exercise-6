@@ -1,0 +1,9 @@
+book.dat contains  2 records
+Enter the name of the book
+To stop entering, press enter at the beginning of a line
+Enter Q, T, or A followed by newline (enter).
+Enter the book author
+Title: Computer Networks
+Author: Tanenbaum
+Price: 89.00
+Enter Q, T, or A followed by newline (enter).
